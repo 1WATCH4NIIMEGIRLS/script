@@ -1,0 +1,135 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("free vers (chat bypasses)", "DarkTheme")
+
+local Tab = Window:NewTab("chat bypasses")
+local TabSection = Tab:NewSection("all bypasses i found :D")
+
+TabSection:NewButton("fuck", "uwu", function()
+    local args = {
+    [1] = "fvcxk",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
+
+TabSection:NewButton("nigga", "nega", function()
+    local args = {
+    [1] = "nega",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
+
+TabSection:NewButton("nigger", "idc it's just bad", function()
+    local args = {
+    [1] = "nager",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
+
+TabSection:NewButton("furry sex videos", "nospaces", function()
+    local args = {
+    [1] = "Furrysexvideos",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
+
+TabSection:NewButton("i will make you cum and sqaure everywhere", "Ayo", function()
+    local args = {
+    [1] = "iwillmakeyoucumandsquareeverywhere",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
+
+TabSection:NewButton("Furry sex on the floor", "yes", function()
+    local args = {
+    [1] = "Furrysexonthefloor",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
+
+TabSection:NewButton("gay sex is the best", "no it isn't my boy", function()
+    local args = {
+    [1] = "Gaysexisthebest",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
+
+TabSection:NewButton("Black men sexy videos", "ayo.", function()
+    local args = {
+    [1] = "Blackmensexyvideos",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
+
+TabSection:NewButton("wet cum", "now im gonna cum", function()
+    local args = {
+    [1] = " wetcum",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
+
+TabSection:NewButton("dick", "-e", function()
+    local args = {
+    [1] = "dick-e",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
+
+TabSection:NewButton("boobs", "boys only", function()
+    local args = {
+    [1] = " B0OBS",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
+
+TabSection:NewButton("milkies", "ay i want some milk baby", function()
+    local args = {
+    [1] = "mlkies",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
+
+TabSection:NewButton("im very sexy", "always, true", function()
+    local args = {
+    [1] = "im very sexy",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
